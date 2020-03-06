@@ -36,7 +36,7 @@ eureka:
 info:
   app.name: com.dremp
   company.name: www.baidu.com
-  ---
+---
 Server:
   port: 8001
 
